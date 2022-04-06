@@ -1,0 +1,26 @@
+input {
+    width: 100%;
+    font-size: medium;
+}
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table {
+    margin: 1px;
+    border: thick solid 00000;
+}
